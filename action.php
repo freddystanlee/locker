@@ -42,16 +42,6 @@ if(isset($_POST['submit'])){
 // Lt. 4 tersedia 5 buah loker, nomor 19-23
 // Lt. 5 tersedia 6 buah loker, nomor 24-29
 // Lt. 6 tersedia 7 buah loker, nomor 30-36
-
-/* 
-KESIMPULAN:
-1.) Per 3 lantai ada 18 buah loker
-
-
-*/  
      
-
-
-    
    
 }
