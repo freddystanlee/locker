@@ -7,12 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Logic Loker</h1>
+
+
     <form method="post" action="action.php">
         <label>Masukkan nomor loker: </label>
         <input type="number" name="input">
         <button type="submit" name="submit">Submit</button>
-
     </form>
 
 
