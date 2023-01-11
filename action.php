@@ -3,7 +3,7 @@
 if(isset($_POST['submit'])){
 
     $loker = $_POST['input']; //parameter nomor loker
-    $count = 0; //untuk lantai (per 3 lantai)
+    $count = 0; //untuk menentukan ada di kelipatan 18 ke berapa (per 3 lantai mempunyai 18 loker = 1 repetisi/kelipatan)
     $x; //untuk menentukan index lantai mana (1-3)
     $specificfloor;
 
